@@ -2,15 +2,15 @@ Lab 1:
 
 Perform footprinting through search engines
 
-![](images/image001.png){width="6.5in" height="1.6868055555555554in"}
+![](images/image001.png)
 
-![](images/image002.png){width="6.5in" height="0.6715277777777777in"}
+![](images/image002.png)
 
 lets go through it:
 
-![](images/image003.png){width="6.5in" height="1.2569444444444444in"}
+![](images/image003.png)
 
-![](images/image004.png){width="6.5in" height="3.3055555555555554in"}
+![](images/image004.png)
 
 What we did here?
 
@@ -29,7 +29,7 @@ organization.
 
 We can also do:
 
-![](images/image005.png){width="6.5in" height="4.678472222222222in"}
+![](images/image005.png)
 
 We found some pdfs here, we can us them for gathering information, they
 maybe be useful and maybe not, but here we used the "filetype " to limit
@@ -53,96 +53,84 @@ phases** of ethical hacking. While powerful, it must always be used
 **legally and ethically**, focusing on authorized testing or educational
 research only.
 
-![](images/image006.png){width="6.5in" height="3.4659722222222222in"}
+![](images/image006.png)
 
 Lab 2:
 
 Perform footprinting through internet research services
 
-![](images/image007.png){width="6.5in" height="1.8958333333333333in"}
+![](images/image007.png)
 
 ![A close-up of a document AI-generated content may be
-incorrect.](media/image8.png){width="6.5in"
-height="2.3604166666666666in"}
+incorrect.](media/image8.png)
 
 Lets go through it:
 
 Lets start with netcarft:
 
-![](images/image009.png){width="6.5in" height="3.4875in"}
+![](images/image008.png)
 
 Go to tap "Resources"
 
 ![A close-up of a card AI-generated content may be
-incorrect.](media/image10.png){width="6.5in"
-height="1.9861111111111112in"}
+incorrect.](images/image10.png)
 
 Go to research tools
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image11.png){width="6.5in"
-height="3.185416666666667in"}
+incorrect.](images/image11.png)
 
 Go to site report
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image12.png){width="6.5in"
-height="3.1506944444444445in"}
+incorrect.](images/image12.png)
 
 ![A close up of text AI-generated content may be
-incorrect.](media/image13.png){width="6.5in"
-height="1.070138888888889in"}
-
+incorrect.](images/image13.png)
 I tried **https://www.netcraft.com**
 
-![](images/image014.png){width="6.5in" height="3.1805555555555554in"}
+![](images/image014.png)
 
 It gave me a report for the site, lets search for subdomains,
 
 Go to Network section:
 
-![](images/image015.png){width="6.5in" height="1.8354166666666667in"}
+![](images/image015.png)
 
 In the domain field:
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image16.png){width="6.5in"
-height="2.8722222222222222in"}
+incorrect.](images/image16.png)
 
 It gave is 10 results containing subdomains for the site we entered.
 
 Lets Go to dnsdumpster:
 
-![](images/image017.png){width="6.5in" height="3.561111111111111in"}
+![](images/image017.png)
 
-![](images/image018.png){width="6.5in" height="2.997916666666667in"}
+![](images/image018.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image19.png){width="6.5in"
-height="3.109027777777778in"}
+incorrect.](images/image19.png)
 
-![](images/image020.png){width="6.5in" height="2.910416666666667in"}
+![](images/image020.png)
 
 And there is a command tool called sublist3r and it's a powerful tool, I
 recommend it:
 
-![](images/image021.png){width="6.5in" height="4.23125in"}
+![](images/image021.png)
 
 ![A computer screen shot of a computer program AI-generated content may
-be incorrect.](media/image22.png){width="6.5in"
-height="4.967361111111111in"}
-
+be incorrect.](images/image22.png)
 Lets go to lab 3.
 
 Lab 3:
 
 Perform footprinting through social networking sites:
 
-![](images/image023.png){width="6.5in" height="1.9145833333333333in"}
+![](images/image023.png)
 
-![A close-up of a document AI-generated content may be
-incorrect.](media/image24.png){width="6.5in"
-height="2.390972222222222in"}
+![](images/image24.png)
 
 **Sherlock** is an open‑source OSINT tool that enumerates a single
 username across hundreds of websites and social platforms. Given a
@@ -152,9 +140,9 @@ subject's online footprint quickly and efficiently.
 
 As u can see here:
 
-![](images/image025.png){width="6.5in" height="3.0034722222222223in"}
+![](images/image025.png)
 
-![](images/image026.png){width="6.5in" height="3.1909722222222223in"}
+![](images/image026.png)
 
 I also tried it on myself, wow!
 
@@ -162,19 +150,17 @@ Lab 4:
 
 perform whois footprinting
 
-![](images/image027.png){width="6.5in" height="1.6375in"}
+![](images/image027.png)
 
-![](images/image028.png){width="6.5in" height="0.7305555555555555in"}
+![](images/image028.png)
 
 Open the website:
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image29.png){width="6.5in"
-height="2.370833333333333in"}
+incorrect.](images/image29.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image30.png){width="6.5in"
-height="3.152083333333333in"}
+incorrect.](images/image30.png)
 
 **WHOIS website** are online services that allow users to query the
 **public registration information** of a domain name. These platforms
@@ -184,19 +170,18 @@ expiration dates, name servers, and sometimes contact information
 
 And here is a command line tool called whois you can use:
 
-![](images/image031.png){width="6.5in" height="3.1777777777777776in"}
+![](images/image031.png)
 
 Lab 5:
 
 Perform DNS footprinting:
 
-![](images/image032.png){width="6.5in" height="1.773611111111111in"}
+![](images/image032.png)
 
 ![A close-up of a computer AI-generated content may be
-incorrect.](media/image33.png){width="6.5in"
-height="2.223611111111111in"}
+incorrect.](images/image33.png)
 
-![](images/image034.png){width="6.5in" height="1.6854166666666666in"}
+![](images/image034.png)
 
 I used nslookup to find the IP address of www.microsoft.com. The result
 shows a **non-authoritative answer** because it came from a cached DNS
@@ -206,7 +191,7 @@ the final IP 23.193.109.183, which is part of Akamai's CDN. This shows
 how Microsoft uses a **Content Delivery Network** to distribute traffic
 efficiently.
 
-![](images/image035.png){width="6.5in" height="1.8604166666666666in"}
+![](images/image035.png)
 
 I used nslookup to check the **CNAME record** of www.microsoft.com. The
 output shows a **non-authoritative answer**, indicating that the DNS
@@ -219,17 +204,16 @@ Lab 6:
 
 Perform network footprinting:
 
-![](images/image036.png){width="6.5in" height="1.273611111111111in"}
+![](images/image036.png)
 
 ![A close up of a logo AI-generated content may be
-incorrect.](media/image37.png){width="6.5in"
-height="1.0319444444444446in"}
+incorrect.](images/image37.png)
 
-![](images/image038.png){width="6.5in" height="1.2180555555555554in"}
+![](images/image038.png)
 
-![](images/image039.png){width="6.5in" height="3.6006944444444446in"}
+![](images/image039.png)
 
-![](images/image040.png){width="6.5in" height="4.779861111111111in"}
+![](images/image040.png)
 
 I used the **tracert** command to trace the route from my computer to
 www.certifiedhacker.com. The first trace shows the full path with up to
@@ -245,38 +229,37 @@ source and the target.
 
 We can also try it on linux (parrot or kali):
 
-![](images/image041.png){width="6.5in" height="1.8180555555555555in"}
+![](images/image041.png)
 
 Lab 8:
 
 Perform footprinting using various footprinting tools:
 
-![](images/image042.png){width="6.5in" height="1.24375in"}
+![](images/image042.png)
 
-![A close-up of a paper AI-generated content may be
-incorrect.](media/image43.png){width="6.5in" height="1.9875in"}
+![](images/image43.png)
 
-![](images/image044.png){width="6.5in" height="1.195138888888889in"}
+![](images/image044.png)
 
 I escalated to the root user (sudo su), changed to the home directory
 (cd), and launched recon‑ng.
 
 Run help to view all the commands:
 
-![](images/image045.png){width="6.5in" height="4.6409722222222225in"}
+![](images/image045.png)
 
-![](images/image046.png){width="6.5in" height="4.535416666666666in"}
+![](images/image046.png)
 
 marketplace install all --- In **recon‑ng**, this command downloads and
 installs **all available modules** from the recon‑ng marketplace
 
-![](images/image047.png){width="6.5in" height="6.0777777777777775in"}
+![](images/image047.png)
 
 modules search --- In **recon‑ng**, this command **lists available
 modules** and allows you to **search for specific modules** by name,
 category, or function.
 
-![](images/image048.png){width="6.5in" height="4.438888888888889in"}
+![](images/image048.png)
 
 I used **workspaces** in **recon‑ng** to organize my reconnaissance
 projects:
@@ -290,11 +273,9 @@ projects:
 -   workspaces create CEH --- created a new workspace named **CEH** to
     separate this project's data from other recon activities.
 
-![A screenshot of a computer screen AI-generated content may be
-incorrect.](media/image49.png){width="5.37575021872266in"
-height="2.1461329833770777in"}
+![](images/image49.png)
 
-![](images/image050.png){width="6.5in" height="3.053472222222222in"}
+![](images/image050.png)
 
 I inserted the target domain into Recon‑NG's database and verified it
 was added:
@@ -305,7 +286,7 @@ was added:
 -   show domains --- displayed the domains table: one entry (rowid 1)
     with the inserted URL and no notes.
 
-![](images/image051.png){width="6.5in" height="6.659722222222222in"}
+![](images/image051.png)
 
 I loaded and ran a Recon‑NG brute‑force module to discover hosts:
 
@@ -318,7 +299,7 @@ I loaded and ran a Recon‑NG brute‑force module to discover hosts:
     domain(s) stored in the **CEH** workspace and inserts discovered
     host entries (A records / resolved IPs) into the database.
 
-![](images/image052.png){width="6.5in" height="1.225in"}
+![](images/image052.png)
 
 I loaded and ran the **recon/domains-hosts/bing_domain_web** module in
 Recon‑NG. This module performs passive enumeration by querying Bing for
@@ -328,13 +309,13 @@ the search results to discover hosts, subdomains, and URLs associated
 with the domain. Any findings are added to the Recon‑NG database for
 later review.
 
-![](images/image053.png){width="6.5in" height="0.9875in"} The
+![](images/image053.png) The
 reverse_resolve module performs **reverse DNS lookups** on IP addresses
 from a specified **source** (it maps IPs back to hostnames). The error
 \"\[!\] Source contains no input.\" means the module had **no input
 data** (no IPs/hosts) to process.
 
-![](images/image054.png){width="6.5in" height="1.3131944444444446in"}
+![](images/image054.png)
 
 -   modules load reporting/html --- opened the HTML report generator.
 
@@ -352,7 +333,7 @@ generate an HTML report containing data from the current **CEH**
 workspace and save it to /home/albarbari/Desktop/report.html, with the
 specified creator and customer fields embedded.
 
-![](images/image055.png){width="6.5in" height="4.731944444444444in"}
+![](images/image055.png)
 
 I ran the **whois_pocs** module in Recon‑NG to harvest point‑of‑contact
 data from WHOIS:
@@ -368,12 +349,10 @@ data from WHOIS:
     domain and populated Recon‑NG's **contacts** table with any
     discovered POC records (registrant/tech/admin contacts).
 
-![](images/image056.png){width="6.5in" height="5.102777777777778in"}
+![](images/image056.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](media/image57.png){width="6.5in"
-height="5.378472222222222in"}
-
+incorrect.](images/image57.png)
 I ran the **recon/domains-hosts/hackertarget** module in Recon‑NG using
 certifiedhacker.com as the source. The module queries the HackerTarget
 service for hosts related to the domain and returns discovered hostnames
