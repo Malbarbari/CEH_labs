@@ -62,7 +62,7 @@ Perform footprinting through internet research services
 ![](images/image007.png){width="6.5in" height="1.8958333333333333in"}
 
 ![A close-up of a document AI-generated content may be
-incorrect.](media/image8.png){width="6.5in"
+incorrect.](images/image8.png){width="6.5in"
 height="2.3604166666666666in"}
 
 Lets go through it:
